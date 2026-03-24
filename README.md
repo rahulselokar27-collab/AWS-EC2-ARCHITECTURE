@@ -2,7 +2,9 @@
 🚀
 
 🏗️ 🔹 AWS EC2 ARCHITECTURE (FULL EXPLANATION)
+
 📌 Basic EC2 Architecture Flow
+
 User → Internet → Route Table → Internet Gateway → EC2 (Public Subnet)
                                       ↓
                                   NAT Gateway
